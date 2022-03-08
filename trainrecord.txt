@@ -1,0 +1,64 @@
+Name=please
+CNIC=1234567890123
+Date-of-Birth=Wednesday,02 February,2000
+Departure City=Lahore
+Arrival-City=Rawalpindi
+Departure-Date=Wednesday,23 February,2022
+Departure-time=2022-02-23 06:00:00
+Seat-Type=economy berth
+no of seats=1
+Fare-Cost=1000
+#####
+#####
+#####
+#####
+Name=adeel
+CNIC=3740659235823
+Date-of-Birth=Saturday,12 February,2000
+Departure City=Rawalpindi
+Arrival-City=Karachi
+Departure-Date=Thursday,24 February,2022
+Departure-time=2022-02-24 00:00:00
+Seat-Type=ac sleeper
+no of seats=3
+Fare-Cost=23100
+#####
+Name=azmat
+CNIC=4444444444444
+Date-of-Birth=Saturday,02 February,2002
+Departure City=Karachi
+Arrival-City=Islamabad
+Departure-Date=Monday,28 February,2022
+Departure-time=2022-02-28 15:00:00
+Seat-Type=economy berth
+no of seats=3
+Fare-Cost=4800
+#####
+#####
+#####
+#####
+#####
+Name=arshad
+CNIC=9999999999999
+Date-of-Birth=Wednesday,02 February,2000
+Departure City=Lahore
+Arrival-City=Peshawar
+Departure-Date=Saturday,26 February,2022
+Departure-time=2022-02-26 15:00:00
+Seat-Type=economy berth
+no of seats=6
+Fare-Cost=7800
+#####
+Name=almas
+CNIC=1231231231231
+Date-of-Birth=Wednesday,02 February,2000
+Departure City=Karachi
+Arrival-City=Rawalpindi
+Departure-Date=Wednesday,23 February,2022
+Departure-time=2022-02-23 22:15:00
+Seat-Type=economy berth
+no of seats=2
+Fare-Cost=3200
+#####
+#####
+#####
